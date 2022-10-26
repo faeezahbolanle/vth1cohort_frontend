@@ -1,0 +1,81 @@
+body{
+    /* background-color: rgb(34, 45, 45); */
+    font-family: 'aries'
+  }
+  .main{
+    background-color: red;
+  }
+  .profile{
+    background-color: blue;
+  }
+  #identity{
+    background-color: orange;
+  }
+  .copynow{
+    background-color: blue;
+  }
+  #secondweb{
+    background-color: green;
+  }
+  .practicework{
+    background-color: papayawhip;
+  }
+  #dispatch{
+    background-color: burlywood;
+  }
+  .about{
+    background-color: darkgoldenrod;
+  }
+  .myworks{
+    background-color: aqua;
+  }
+  .html{
+    background-color: fuchsia;
+  }
+  .css{
+    background-color: black;
+  }
+  #javascript{
+    background-color: darkblue;
+  }
+  h1{
+    color:palegreen;
+    text-align: center;
+  }
+  h3{
+    color: tan;
+    text-align: center;
+  }
+  #aboutme{
+    color:wheat;
+    text-align: center;
+  }
+  img{
+    display: block;
+    margin:0 auto;
+    width: 250px;
+  }
+  #lorem{
+    color: blanchedalmond;
+    text-align: center;
+  }
+  .frontend{
+    color: olivedrab;
+    text-align: center;
+  }
+  #online{
+    color: powderblue;
+    text-align: center;
+  }
+  #bookshop{
+    color: rosybrown;
+    text-align: center;
+  }
+  #frontend{
+    color:royalblue;
+    text-align: center;
+  }
+  #dispatch{
+    color: yellowgreen;
+    text-align: center;
+  }
