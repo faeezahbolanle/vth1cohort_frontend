@@ -1,0 +1,28 @@
+body{
+    /* background-color: rgb(34, 45, 45); */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+div{
+    background-color: black;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h2{
+    color: rebeccapurple;
+    text-align: center;
+}
+h3{
+    color: palegreen;
+    text-align: center;
+}
+p{
+    color: tan;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
