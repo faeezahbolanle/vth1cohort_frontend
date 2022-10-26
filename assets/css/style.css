@@ -1,0 +1,125 @@
+body{
+    /* background-color: rgb(34, 45, 45); */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+.margin{
+    color:darkblue;
+    text-align:center;
+}
+.asdf{
+    color: bisque;
+    text-align: center;
+}
+.classid{
+    color: bisque;
+    text-align: centre;
+}
+.nameis{
+    color: pink;
+    text-align: center;
+}
+.bird{
+    color: aliceblue;
+    text-align: center;
+}
+.colorname{
+    color: azure;
+    text-align: center;
+}
+.heading{
+    color: purple;
+    text-align: center;
+}
+.identity{
+    color: blue;
+    text-align: center;
+}
+.display{
+    color: black;
+    text-align:center;
+}
+.lenovo{
+    color: yellow;
+    text-align: center;
+}
+.thinkpad{
+    color: green;
+    text-align: center;
+}
+.biro{
+    color: bisque;
+    text-align: center;
+}
+.girl{
+    color: purple;
+    text-align: center;
+}
+.excel{
+    color: pink;
+    text-align: center;
+}
+.htmllang{
+    background-color:skyblue;
+}
+.backgroundcolor{
+    display: block;
+    margin: 0 auto;
+}
+.identity{
+    color: yellow;
+    text-align: center;
+}
+.h4{
+    color: aliceblue;
+    text-align: center;
+}
+.anything{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.image{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.qwerty{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.assets{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.myname{
+    background-color: white;
+}
+.profile{
+    background-color: gold;
+}
+.firstweb{
+    background-color: green;
+}
+.secondweb{
+    background-color: greenyellow;
+}
+.thirdweb{
+    background-color: blanchedalmond;
+}
+.faeezah{
+    background-color: black;
+}
+.web{
+    background-color: blue;
+}
+.webdesign{
+    background-color: blueviolet;
+}
+.mater{
+    background-color: beige;
+}
+.javascript{
+    background-color: blueviolet;
+}
