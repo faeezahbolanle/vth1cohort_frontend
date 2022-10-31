@@ -1,24 +1,24 @@
-div h1{
-  color: yellow;
+div > h1{
+  color: green;
   text-align: center;
 }
-div img{
+div > img{
   margin:0 auto;
-  width: 250px;
+  width: 300px;
   display: block;
 }
-div p{
-  color: red;
+div > p{
+  color:red;
   text-align: center;
 }
-div h3{
-  color: purple;
+div > h3{
+  color: orange;
   text-align: center;
 }
 div h2{
-  color: tan;
+  color: teal;
   text-align: center;
 }
 div div{
-  background-color:wheat;
+  background-color:palegoldenrod;
 }
