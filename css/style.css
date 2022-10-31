@@ -15,10 +15,10 @@ div > h3{
   color: orange;
   text-align: center;
 }
-div h2{
+div > h2{
   color: teal;
   text-align: center;
 }
-div div{
-  background-color:palegoldenrod;
+div > div{
+  background-color:grey;
 }
