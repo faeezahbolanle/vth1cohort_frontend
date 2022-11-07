@@ -2,13 +2,23 @@ div > h1{
   color: green;
   text-align: center;
 }
+.btn{
+  display: block;
+  margin-inline: auto;
+  margin-block: 1rem;
+  background-color: aqua;
+  color: 000;
+  border-radius: 8px;
+  border: none;
+  padding: 0.5rem 2rem ;
+}
 div > img{
   margin:0 auto;
   width: 300px;
   display: block;
 }
 div > p{
-  color:red;
+  color:000;
   text-align: center;
 }
 div > h3{

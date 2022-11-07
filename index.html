@@ -97,17 +97,20 @@
         <div class="main">
             <h1>Faeezah</h1>
             <div class="profile">
-                <img  src="./assets/WIN_20200605_14_52_10_Pro.jpg" alt="">
+                <img  src="./assets/WIN_20200605_14_52_10_Pro.jpg" alt="" id="profile_picture">
                 <!-- <img src="./assets/devn-53ouhY5koKY-unsplash (1).jpg" alt=""style="width: 250px;"> -->
                  <!-- <a href="#" style="color:black;">link</a> -->
+                 <button class="btn" onclick="changeAttribute()">change image</button>
                  <div id="identity">
                     <p id="lorem"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam, eius?</p>
                  </div>
                 <h1>Faeezah</h1>
-                <p class="frontend">i am a frontend developer</p>
+                <p id="role">i am a frontend developer</p>
+                <button onclick="ChangeToDate()"class="btn">click me</button>
                 <div class="copynow">
-                    <h3>Eatry</h3>
+                    <h3 id="companyOne">Eatry</h3>
                     <p id="online">Online Eatry Site</p>
+                    <button class="btn" onclick="changeContent()">click me</button>
                 </div>
                 <div id="secondweb">
                     <h3>Bookshop</h3>
@@ -140,6 +143,46 @@
                 </div>
             </div>
         </div>
+        <script>
+          //javascript is the world's most popular scripting language. single line comment
+/*
+  javascript is the programming language for the web
+  javascript is easy to learn.
+  we will learn the following javascript concept today:
+  1. datatypes
+  2. variables
+  3. operators.
+
+  before we begin learning let's see the power of javascript below
+  The original Javascript versions include ES1 ES2 ES3 (1997-1999)
+   The first main revision ESS(2009)
+   The second version is ES6(2015)
+*/
+function ChangeToDate(){
+var currentDate = document.getElementById('role')
+    currentDate.innerHTML = Date()
+
+}
+/*
+1. we can use javascript to change html content
+*/
+
+function changeContent(){
+  var currentValue =document.getElementById('companyOne')
+  currentValue.innerHTML = 'Mama Bukka' 
+}
+/*
+ javascript can change html attribute values
+*/
+function changeAttribute(){
+  var currentAttributeValue = document.getElementById('profile_picture') 
+  currentAttributeValue.src="../assets/faeezah.webp"
+}
+
+/*
+ you can write javascript for the web inside html
+*/
+        </script>
     </body>
 </html>
 
