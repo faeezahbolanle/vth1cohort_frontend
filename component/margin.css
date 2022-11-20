@@ -26,6 +26,25 @@ p{
     margin-inline-start: 0.5rem;
     margin-inline-end: 0.5rem;
 }
+.flex_container{
+    display: flex;
+    height: 500px;
+    background-color: aliceblue;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content:center;
+    overflow: scroll;
+}
+.flex_container > div{
+    background-color: blueviolet;
+    margin: 5px;
+    padding: 15px;
+    font-size: 40px;
+    text-align: center;
+    line-height: 50px;
+    width: 250px;            
+    
+}
 
 
 h1{
@@ -35,3 +54,4 @@ h1{
      */
     /*margin-top:0.125em;
     }
+    

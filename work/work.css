@@ -1,0 +1,6 @@
+.flex_container{
+    display: block;
+}
+.item{
+    order: 5px; ;
+}
