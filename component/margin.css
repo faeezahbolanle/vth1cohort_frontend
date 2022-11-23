@@ -19,6 +19,7 @@ html{
 }
 #box2{
     /* font-size: 1em; */
+    max-width: 100%;
 }
 p{
     margin-block-start: 0.25rem;
@@ -44,6 +45,12 @@ p{
     line-height: 50px;
     width: 250px;            
     
+}
+.faeezah{
+    max-width: 100%;
+}
+.sponge{
+    max-width:100%;
 }
 
 
