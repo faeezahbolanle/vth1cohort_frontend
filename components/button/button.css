@@ -1,0 +1,20 @@
+.bolanle{
+    background-color:#F5CF04;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+    padding: 10px 30px;
+    margin: 4px;
+    border-width: 3px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 3px;
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: normal;
+    outline: #F5CF04;
+    border-color: antiquewhite;
+    text-align: center;
+    font-style: italic;
+}
