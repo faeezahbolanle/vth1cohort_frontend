@@ -18,3 +18,89 @@
     text-align: center;
     font-style: italic;
 }
+.button{
+    background-color:#912528;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+    padding: 6px 20px;
+    margin: 4px;
+    border-width: 3px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 3px;
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: normal;
+    outline: #F3FFFF;
+    border-color: black;
+    text-align: center;
+    font-style: italic;
+  }
+  .border{
+    background-color:#912528;;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+    padding: 6px 20px;
+    margin: 4px;
+    border-width: 3px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 3px;
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: normal;
+    outline: #F3FFFF;
+    border-color: black;
+    text-align: center;
+    font-style: italic;
+  }
+  .boxer{
+    background-color:#912528;;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+    padding: 6px 20px;
+    margin: 4px;
+    border-width: 3px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 3px;
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: normal;
+    outline: #F3FFFF;
+    border-color: black;
+    text-align: center;
+    font-style: italic;
+  }
+  .boredorm{
+    background: color #912528;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    border: none;
+    padding: 6px 20px;
+    margin: 4px;
+    border-width: 3px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 3px;
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: normal;
+    outline: #F3FFFF;
+    border-color: black;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  
+  
+  
+  
+  
